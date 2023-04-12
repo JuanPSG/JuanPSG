@@ -1,4 +1,5 @@
-### ¡Hi!, i'm Juan 👋
+<center> ### ¡Hi!, i'm Juan 👋 </center>
+
 Prospective graduate of computer systems engineering.
 
 - 🔭 I’m currently working on my portafolio.
