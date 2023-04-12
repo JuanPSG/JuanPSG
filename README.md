@@ -13,6 +13,15 @@ Prospective graduate of computer systems engineering.
 
 ***
 These are some of the tools and languages I know
+|  |  |
+| ------ | ----------- |
+| C# | Java |
+| PHP | Python |
+| HTML | CSS |
+| JavaScript | MongoDB | 
+
+
+
 <ul>
     <li>C#</li>
     <li>Java</li>
