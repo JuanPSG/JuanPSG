@@ -18,19 +18,7 @@ These are some of the tools and languages I know
 | ------ | ----------- |
 | C# | Java |
 | PHP | Python |
-| HTML | CSS |
-| JavaScript | MongoDB | 
-
-
-
-<ul>
-    <li>C#</li>
-    <li>Java</li>
-    <li>SQL</li>
-    <li>PostgreSQL</li>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JavaScript</li>
-    <li>PHP</li>
-    <li>Python</li>
-</ul>
+| GO | HTML |
+| CSS | JavaScript |
+| SQL | MySQL |
+| PostgreSQL | MongoDB |
