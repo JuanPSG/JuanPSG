@@ -1,4 +1,4 @@
-### <center>¡Hi!, i'm Juan 👋 </center>
+###<center>¡Hi!, i'm Juan 👋</center>
 
 Prospective graduate of computer systems engineering.
 
