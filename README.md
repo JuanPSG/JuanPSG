@@ -1,9 +1,8 @@
 ### ¡Hi!, i'm Juan 👋
-
-These are some of the tools and languages I know
+Prospective graduate of computer systems engineering.
 
 - 🔭 I’m currently working on my portafolio.
-- 🌱 I’m currently learning java.
+- 🌱 I’m currently learning Oracle.
 - 👨‍💻All of my projects are available at https://github.com/JuanPSG/Portfolio
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -11,3 +10,17 @@ These are some of the tools and languages I know
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+***
+These are some of the tools and languages I know
+<ul>
+    <li>C#</li>
+    <li>Java</li>
+    <li>SQL</li>
+    <li>PostgreSQL</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>PHP</li>
+    <li>Python</li>
+</ul>
