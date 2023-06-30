@@ -3,7 +3,7 @@
 Prospective graduate of computer systems engineering.
 
 - 🔭 I’m currently working on my portfolio.
-- 🌱 I’m currently learning Oracle.
+- 🌱 I’m currently learning Java.
 - 👨‍💻All of my projects are available at https://github.com/JuanPSG/Portfolio
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
